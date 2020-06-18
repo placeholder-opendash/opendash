@@ -10,7 +10,7 @@
     "test": "eslint ./src"
   },
   "dependencies": {
-    "angular": "^1.6.9",
+    "angular": "^1.8.0",
     "angular-gridster": "~0.13.14",
     "angular-translate": "^2.17.0",
     "collections": "^5.1.2",
